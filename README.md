@@ -1,1 +1,1 @@
-# Bhavana-Reddy-dev
+I am Bhavana Reddy, studying engineering, and this repository is created to document my learning journey, skills, and projects.
